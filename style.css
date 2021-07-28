@@ -13,60 +13,70 @@ body
 #item1
 {
     background-color: orange;
-    height: 250px;
-    width: 200px;
+    height: 400px;
+    width: 320px;
+    padding: 3px;
 }
 #item2
 {
     background-color: orange;
-    height: 450px;
-    width: 200px;
+    height: 480px;
+    width: 340px;
+    padding: 3px;
 }
 #item3
 {
     background-color: orange;
-    height: 375px;
-    width: 200px;
+    height: 430px;
+    padding: 3px;
+    width: 330px;
 }
 #item4
 {
     background-color: orange;
-    height: 375px;
-    width: 200px;
+    height: 400px;
+    width: 320px;
+    padding: 3px;
 }
 #item5
 {
     background-color: orange;
-    height: 300px;
-    width: 200px;
+    height:400px;
+    width: 320px;
+    padding: 3px;
 }
 #item6
 {
     background-color: orange;
-    height: 375px;
-    width: 200px;
+    height: 410px;
+    width: 320px;
+    padding: 3px;
 }
 #item7
 {
     background-color: orange;
-    height: 400px;
-    width: 200px;
+    height: 420px;
+    width: 320px;
+    padding: 3px;
 }
 #item8
 {
     background-color: orange;
     height: 400px;
-    width: 200px;
+    width: 320px;
+    padding: 3px;
 }
 #item9
 {
     background-color: orange;
     height: 400px;
-    width: 200px;
+    width: 320px;
+    padding: 3px;
 }
 #item10
 {
     background-color: orange;
-    height: 320px;
-    width: 200px;
+    height: 400px;
+    width: 320px;
+    padding: 3px;
 }
